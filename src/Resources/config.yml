@@ -1,0 +1,22 @@
+delay: 20
+# 进入大厅世界时设置物品栏的延迟，为了避免吞物品，请不要设置太低，单位：秒
+lobby_worlds:
+- lobby1
+- lobby2
+# 应用大厅功能的世界
+can_fly: true
+# 允许飞行
+can_hurt: false
+# 是否受到伤害
+can_pvp: false
+# 是否允许PVP
+life: 20
+# 初始生命值
+lock_life: true
+# 是否锁定生命值
+exp: 0
+# 经验值
+build_player:
+- player1
+- player2
+# 允许建筑的玩家，不在这个名单里的玩家将无法建筑

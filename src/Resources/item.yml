@@ -1,0 +1,17 @@
+item:
+  - name: "物品1"
+    # 物品名称
+    command: menu
+    # 物品的命令
+    id: 100:0:1
+    # 物品id，物品ID:物品特殊值:物品数量
+    position: 0
+    # 物品在物品栏的位置
+  - name: "物品2"
+    # 物品名称
+    command: menu
+    # 物品的命令
+    id: 100:0:1
+    # 物品id，物品ID:物品特殊值:物品数量
+    position: 1
+    # 物品在物品栏的位置
